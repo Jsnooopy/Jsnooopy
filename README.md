@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-[![<Jsnooopy>'s GitHub stats](https://github-readme-stats.vercel.app/api?username=<Jsnooopy>)](https://github.com/anuraghazra/github-readme-stats)
-
+![Jsnooopy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jsnooopy&show_icons=true&theme=radical)
 
 
 <!--
