@@ -1,10 +1,12 @@
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=300&section=header&text=Jae Lee&20render&fontsize=90)
 
 Education
 
 ![Jsnooopy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jsnooopy&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jsnooopy&layout=compact)](https://github.com/Jsnooopy/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jsnooopy&layout=compact)]
+
+
 
 <!--
 **Jsnooopy/Jsnooopy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
