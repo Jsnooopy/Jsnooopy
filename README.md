@@ -9,12 +9,6 @@
 
 <br><br>
 
-<div align="center">
-  
-![Jsnooopy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jsnooopy&show_icons=true&theme=radical)
-
-<br>
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jsnooopy&layout=compact)
 
-</div>
+![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj={lj3552})](https://solved.ac/{lj3552})
