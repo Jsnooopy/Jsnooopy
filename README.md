@@ -13,4 +13,4 @@
 
 <br>
 
-[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj={lj3552})](https://solved.ac/{lj3552})
+[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=lj3552)](https://solved.ac/lj3552)
