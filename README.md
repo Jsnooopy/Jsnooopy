@@ -1,6 +1,8 @@
 ## *이재 / Jae Lee*
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leeee_j_) 
 [![Tistory](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white)](https://dear-jj.tistory.com) 
+[![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@lj3552/posts)
+
 
 ## *Education*
 - Yonsei Univ. Electrical and Electronic Engineering (2018.03 ~ 2025.08)
