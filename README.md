@@ -12,7 +12,7 @@
 
 <br>
 
-<div align="center">
+<div align="left">
 
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lj3552" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jsnooopy&layout=compact" height="150"/>
