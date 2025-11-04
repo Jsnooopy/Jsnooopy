@@ -12,6 +12,9 @@
 
 <br>
 
-[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=lj3552)](https://solved.ac/lj3552)
+<div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jsnooopy&layout=compact)
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lj3552" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jsnooopy&layout=compact" height="150"/>
+
+</div>
