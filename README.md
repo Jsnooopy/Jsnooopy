@@ -14,7 +14,7 @@
 
 <div align="left">
 
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lj3552" height="150"/>
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lj3552" height="150" style="margin-right: 20px;"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jsnooopy&layout=compact" height="150"/>
 
 </div>
