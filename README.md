@@ -9,6 +9,7 @@
 
 ## *Certification*
 - 정보처리기사, Engineer Information Processing
+- 데이터분석 준전문가, Advanced Data Analytics Semi-Professional
 
 <br>
 
