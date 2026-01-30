@@ -12,6 +12,9 @@
 - SQL 개발자, Structured Query Language Developer
 - 데이터분석 준전문가, Advanced Data Analytics Semi-Professional
 
+## *Project*
+- TR1L, 대용량 통신 요금 명세서 및 알림 발송 시스템 (URECA 종합 프로젝트 경진대회 우수상)
+
 <br>
 
 <div align="left">
