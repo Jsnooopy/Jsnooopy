@@ -5,7 +5,7 @@
 
 ## *Education*
 - Yonsei Univ. Electrical and Electronic Engineering (2018.03 ~ 2025.08)
-- LG U+ URECA (2025.08 ~ ing)
+- LG U+ URECA (2025.08 ~ 2026.03)
 
 ## *Certification*
 - 정보처리기사, Engineer Information Processing
@@ -14,6 +14,7 @@
 
 ## *Project*
 - TR1L, 대용량 통신 요금 명세서 및 알림 발송 시스템 (URECA 종합 프로젝트 경진대회 우수상)
+- HOTSPOT, 실시간 가족 데이터 통합 관리 및 스마트 제약 시스템 (URECA 최종융합 프로젝트 경진대회 최우수상)
 
 <br>
 
