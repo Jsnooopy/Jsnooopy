@@ -3,7 +3,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leeee_j_) 
 
 ## *Portfolio*
-[![Notion](https://img.shields.io/badge/Portfolio-Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://evanescent-cobra-3de.notion.site/c62597b5e92a82999f6801cb14900748?source=copy_link)
+[![Notion](https://img.shields.io/badge/Portfolio-Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://lee-jae.notion.site/c62597b5e92a82999f6801cb14900748?source=copy_link)
 
 ## *Education*
 - **Yonsei Univ. Electrical and Electronic Engineering** (2018.03 ~ 2025.08)
